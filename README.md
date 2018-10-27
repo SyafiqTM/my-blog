@@ -1,2 +1,2 @@
 # my-blog
-presntation
+Use for presentation
